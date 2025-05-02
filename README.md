@@ -31,8 +31,8 @@ https://drive.google.com/drive/folders/1LptBUGVxQlCZeWVxmCzUOf9WPlsqOROR?usp=sha
 or   
 https://pan.baidu.com/s/12uxjol_5pAlnm0j4F6D_RQ?pwd=rzja
 
-- finetuning data
-- https://drive.google.com/file/d/1aU1Kpqfy2bMgY1lYdQzjdBN87W3dzE9M/view?usp=sharing
+- finetuning data   
+https://drive.google.com/file/d/1aU1Kpqfy2bMgY1lYdQzjdBN87W3dzE9M/view?usp=sharing
   
 - testing data  
 in ./TSP/data or ./CVRP/data
